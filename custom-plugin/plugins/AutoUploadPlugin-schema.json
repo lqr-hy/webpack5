@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "host": {
+      "type": "string",
+      "description": "请输入正确地址"
+    },
+    "username": {
+      "type": "string",
+      "description": "请输入正确用户名"
+    },
+    "password": {
+      "type": "string",
+      "description": "请输入正确密码"
+    },
+    "serverDir": {
+      "type": "string",
+      "description": "请输入服务器上传地址"
+    }
+  }
+}
